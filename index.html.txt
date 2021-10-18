@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=di, initial-scale=1.0">
+    <title>Css Flex Box</title>
+    <link rel="stylesheet" href="csslearn.css">
+</head>
+
+<body>
+    <div class="maincontainer">
+        <div class="header">
+            <div class="image">
+               <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="LOGO" class="image1" >
+            </div>
+            <div class="heading">
+                <h2>GITHUB</h2>
+            </div>
+        </div>
+        <div class="bottom">
+            <div class="leftcontainer">
+
+            </div>
+            <div class="rightcontainer">
+                <div class="para">
+                    <p>Search</p>
+                </div>
+                <div class="rightmiddle">
+                    <div class="rightm1">
+
+                    </div>
+                    <div class="rightm2">
+
+                    </div>
+                    <div class="rightm3">
+
+                    </div>
+                </div>
+                <div class="bottomright">
+                      
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>
